@@ -26,9 +26,14 @@ Please, feel free to take anything you find interesting on my github and use it 
 ...also look at miniStore, a 50-ish line small frontend global state manager.
 
 
-### Reach me here
+### Reach me
 
-You can reach me at [nicolas@hervy.se](nicols@hervy.se)
+![https://www.linkedin.com/in/nicolashervy/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)
+
+![https://www.instagram.com/nicolashervy/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)
+
+![mailto:nicolas@hervy.se](https://img.shields.io/badge/nicolas@hervy.se-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+
 
 <!--
 **nicatspark/nicatspark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
